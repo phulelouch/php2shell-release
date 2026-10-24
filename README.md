@@ -124,7 +124,8 @@ docker exec $(docker ps -q -f ancestor=php2shell-release) cat /tmp/p1
 # → uid=33(www-data) gid=33(www-data) groups=33(www-data)
 ```
 
-<img width="1380" height="838" alt="Screenshot 2026-10-23 at 1 12 38 pm" src="https://github.com/user-attachments/assets/afef6008-1a90-442e-8bf0-6aa648171e0b" />
+<img width="1392" height="154" alt="Screenshot 2026-10-23 at 1 15 37 pm" src="https://github.com/user-attachments/assets/f7988d00-83f2-4169-b260-395c2c3da840" />
+
 
 ## Offsets
 
